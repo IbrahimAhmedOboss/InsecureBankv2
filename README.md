@@ -83,7 +83,7 @@ Immediate priority should be given to:
 ---
 
 > **Attachments (recommended)**  
-![Burp Screenshot](evidence/burp_login.png)
-[MobSF Report PDF](evidence/mobsf_report.pdf)
+![Burp Screenshot](https://github.com/IbrahimAhmedOboss/InsecureBankv2/blob/2936c3f81412fec1be216fa87708a1fbdead0785/WhatsApp%20Image%202025-09-27%20at%2022.27.32_9e126465.jpg)
+[MobSF Report PDF](https://github.com/IbrahimAhmedOboss/InsecureBankv2/blob/e397c2454bdc278e0a41f047b70552d224e3f433/MobSF%20report.pdf)
 
 ---
