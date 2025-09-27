@@ -83,7 +83,7 @@ Immediate priority should be given to:
 ---
 
 > **Attachments (recommended)**  
-> • Screenshots of Burp Suite requests showing plaintext credentials.  
-> • MobSF static analysis report excerpts confirming key findings.
+![Burp Screenshot](evidence/burp_login.png)
+[MobSF Report PDF](evidence/mobsf_report.pdf)
 
 ---
